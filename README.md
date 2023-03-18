@@ -31,5 +31,5 @@ to train. Practical implementations of DCS-based applica-
 tions, e.g., chaos-based CDMA systems and low latency
 communications is an interesting topic for future researches
 
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
+
 
